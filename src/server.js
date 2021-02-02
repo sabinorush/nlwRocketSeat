@@ -109,4 +109,4 @@ server.get("/search", (req, res) => {
 })
 
 // ligar o servidor //CTR + C INTERROMPE O SERVIDOR NO TERMINAL, ( USAR DENTRO DO TERMINAL !)
-server.listen(3000)
+server.listen(8080)
