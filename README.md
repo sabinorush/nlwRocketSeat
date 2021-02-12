@@ -112,11 +112,12 @@ $ npm run dev:server
 # O servidor inciará na porta:8080 - acesse http://localhost:8080
 
 
-
+```
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
-```
+
+```bash
 
 # Clone este repositório
 $ git clone git@github.com:sabinorush/nlwRocketSeat.git
@@ -168,7 +169,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-[![Twitter Badge](https://img.shields.io/badge/-@Gsabinu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Gsabinu)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-sabino-21b75a96/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Twitter Badge](https://img.shields.io/badge/-@Gsabinu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Gsabinu)](https://twitter.com/Gsabinu) [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-sabino-21b75a96/)](https://www.linkedin.com/in/tgmarinho/) 
 [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:walafif81@gmail.com)](mailto:gu.sabino@hotmail.com)
 
 ---
