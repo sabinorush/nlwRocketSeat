@@ -116,7 +116,7 @@ $ npm run dev:server
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
-```bash
+```
 
 # Clone este repositório
 $ git clone git@github.com:sabinorush/nlwRocketSeat.git
@@ -133,7 +133,7 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run start
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:8080
+# A aplicação será aberta na porta:8080 - acesse http://localhost:8080
 
 ```
 
